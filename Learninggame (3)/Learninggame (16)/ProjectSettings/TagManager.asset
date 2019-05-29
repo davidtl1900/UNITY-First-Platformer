@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - Ground
+  - backround
+  - Enemy
+  - Bullets
+  - spike
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backround
+    uniqueID: 3602541437
+    locked: 0
+  - name: housebehind
+    uniqueID: 3743132919
+    locked: 0
+  - name: tree
+    uniqueID: 2910712547
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 1443969691
+    locked: 0
+  - name: secret passage/door
+    uniqueID: 3043178251
+    locked: 0
+  - name: over the passage
+    uniqueID: 3060258883
+    locked: 0
